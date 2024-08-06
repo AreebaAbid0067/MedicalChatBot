@@ -13,4 +13,5 @@ sentence-transformers==3.0.1  is used as an embedding model its free we need it 
 to install all of it for that command in bash: "pip install -r requirements.txt"
 
 
+direct to the 'MedicalChatBot' basically the project folder  and write 'pip install -r requirements.txt'
 
